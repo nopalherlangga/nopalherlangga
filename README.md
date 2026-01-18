@@ -25,7 +25,7 @@ I focus on building fast, scalable, and reliable web apps — from frontend to b
 
 - 💡 Creator of [**safefileku.com**](https://safefileku.com) — free simple file sharing and storage.  
 - 🔗 Founder of [**tempel.in**](https://tempel.in) — lightweight pastebin for developers.  (That's what I hope for 😟)
-- 🧠 Currently learning more about **DevOps**, **backend scaling**, and **system architecture**.  
+- 🧠 Currently learning more about **DevOps**, **backend scaling**, and **system architecture**. Also interested in learning **Go**.
 - ⚙️ I enjoy automating workflows and optimizing server performance.  
 
 ---
@@ -35,7 +35,7 @@ I focus on building fast, scalable, and reliable web apps — from frontend to b
 `PHP` · `JavaScript` · `TypeScript` · `Shell` · `Lua`
 
 #### **Frameworks & Tools**
-`Laravel` · `Node.js` · `Tailwind CSS` · `Docker` · `Nginx` · `Redis`
+`Laravel` · `Node.js` · `Hono` · `Tailwind CSS` · `Docker` · `Nginx` · `Redis`
 
 #### **Other Skills**
 `Linux` · `REST API` · `Automation` · `Cloud Deployment` · `Security Hardening`
